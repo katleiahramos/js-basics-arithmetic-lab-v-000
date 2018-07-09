@@ -15,5 +15,5 @@ const randomNumber = ((Math.random() * 10) + 10)  ;
 
 const randomInteger = Math.floor(randomNumber);
 
-debugger; 
+console.log(newID + randomIntege)
 const randomUserID = newID + randomInteger;
